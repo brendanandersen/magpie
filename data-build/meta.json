@@ -1,0 +1,39 @@
+{
+  "generatedAt": "2026-07-09T17:39:03.109Z",
+  "source": "Etymology Atlas (lukeslp/etymology-atlas), CC BY-SA 3.0",
+  "counts": {
+    "ancestorHeadwords": 57606,
+    "coreWordsResolved": 135,
+    "coreWordsMissing": 0,
+    "phonemeInventories": 6,
+    "typologyFeatures": 5
+  },
+  "scopedAncestorLangs": [
+    "proto-indo-european",
+    "proto-germanic",
+    "proto-west germanic",
+    "proto-italic",
+    "gothic",
+    "old english",
+    "old norse",
+    "old high german",
+    "old dutch",
+    "old saxon",
+    "middle english",
+    "middle french",
+    "middle dutch",
+    "old french",
+    "latin",
+    "late latin",
+    "medieval latin",
+    "new latin",
+    "ancient greek",
+    "sanskrit",
+    "french",
+    "german",
+    "dutch",
+    "italian",
+    "spanish",
+    "anglo-norman"
+  ]
+}

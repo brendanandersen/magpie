@@ -1,0 +1,260 @@
+{
+  "81A": {
+    "featureId": "81A",
+    "featureName": "Order of Subject, Object and Verb",
+    "values": [
+      {
+        "value": 1,
+        "label": "SOV",
+        "count": 564,
+        "weight": 0.40988372093023256
+      },
+      {
+        "value": 2,
+        "label": "SVO",
+        "count": 488,
+        "weight": 0.3546511627906977
+      },
+      {
+        "value": 7,
+        "label": "No dominant order",
+        "count": 189,
+        "weight": 0.1373546511627907
+      },
+      {
+        "value": 3,
+        "label": "VSO",
+        "count": 95,
+        "weight": 0.0690406976744186
+      },
+      {
+        "value": 4,
+        "label": "VOS",
+        "count": 25,
+        "weight": 0.018168604651162792
+      },
+      {
+        "value": 5,
+        "label": "OVS",
+        "count": 11,
+        "weight": 0.007994186046511628
+      },
+      {
+        "value": 6,
+        "label": "OSV",
+        "count": 4,
+        "weight": 0.0029069767441860465
+      }
+    ]
+  },
+  "87A": {
+    "featureId": "87A",
+    "featureName": "Order of Adjective and Noun",
+    "values": [
+      {
+        "value": 2,
+        "label": "Noun-Adjective",
+        "count": 879,
+        "weight": 0.6430138990490124
+      },
+      {
+        "value": 1,
+        "label": "Adjective-Noun",
+        "count": 373,
+        "weight": 0.2728602779809802
+      },
+      {
+        "value": 3,
+        "label": "No dominant order",
+        "count": 110,
+        "weight": 0.08046817849305048
+      },
+      {
+        "value": 4,
+        "label": "87A-4",
+        "count": 5,
+        "weight": 0.0036576444769568397
+      }
+    ]
+  },
+  "49A": {
+    "featureId": "49A",
+    "featureName": "Number of Cases",
+    "values": [
+      {
+        "value": 1,
+        "label": "No morphological case",
+        "count": 100,
+        "weight": 0.3831417624521073
+      },
+      {
+        "value": 6,
+        "label": "6-7 cases",
+        "count": 37,
+        "weight": 0.1417624521072797
+      },
+      {
+        "value": 8,
+        "label": "10+ cases",
+        "count": 24,
+        "weight": 0.09195402298850575
+      },
+      {
+        "value": 9,
+        "label": "Exclusively borderline case marking",
+        "count": 24,
+        "weight": 0.09195402298850575
+      },
+      {
+        "value": 2,
+        "label": "2 cases",
+        "count": 23,
+        "weight": 0.08812260536398467
+      },
+      {
+        "value": 7,
+        "label": "8-9 cases",
+        "count": 23,
+        "weight": 0.08812260536398467
+      },
+      {
+        "value": 5,
+        "label": "5 cases",
+        "count": 12,
+        "weight": 0.04597701149425287
+      },
+      {
+        "value": 3,
+        "label": "3 cases",
+        "count": 9,
+        "weight": 0.034482758620689655
+      },
+      {
+        "value": 4,
+        "label": "4 cases",
+        "count": 9,
+        "weight": 0.034482758620689655
+      }
+    ]
+  },
+  "33A": {
+    "featureId": "33A",
+    "featureName": "Coding of Nominal Plurality",
+    "values": [
+      {
+        "value": 2,
+        "label": "Plural prefix",
+        "count": 513,
+        "weight": 0.4812382739212008
+      },
+      {
+        "value": 7,
+        "label": "Plural word",
+        "count": 170,
+        "weight": 0.15947467166979362
+      },
+      {
+        "value": 1,
+        "label": "Plural suffix",
+        "count": 126,
+        "weight": 0.11819887429643527
+      },
+      {
+        "value": 9,
+        "label": "No plural",
+        "count": 98,
+        "weight": 0.09193245778611632
+      },
+      {
+        "value": 8,
+        "label": "Plural clitic",
+        "count": 81,
+        "weight": 0.07598499061913697
+      },
+      {
+        "value": 6,
+        "label": "Mixed morphological plural",
+        "count": 60,
+        "weight": 0.05628517823639775
+      },
+      {
+        "value": 5,
+        "label": "Plural complete reduplication",
+        "count": 8,
+        "weight": 0.0075046904315197
+      },
+      {
+        "value": 3,
+        "label": "Plural stem change",
+        "count": 6,
+        "weight": 0.005628517823639775
+      },
+      {
+        "value": 4,
+        "label": "Plural tone",
+        "count": 4,
+        "weight": 0.00375234521575985
+      }
+    ]
+  },
+  "51A": {
+    "featureId": "51A",
+    "featureName": "Position of Case Affixes",
+    "values": [
+      {
+        "value": 1,
+        "label": "Case suffixes",
+        "count": 452,
+        "weight": 0.4384093113482056
+      },
+      {
+        "value": 9,
+        "label": "No case marking",
+        "count": 379,
+        "weight": 0.3676042677012609
+      },
+      {
+        "value": 6,
+        "label": "Mixed morphological case",
+        "count": 123,
+        "weight": 0.11930164888457807
+      },
+      {
+        "value": 2,
+        "label": "Case prefixes",
+        "count": 38,
+        "weight": 0.03685741998060136
+      },
+      {
+        "value": 7,
+        "label": "No case affixes",
+        "count": 17,
+        "weight": 0.016488845780795344
+      },
+      {
+        "value": 5,
+        "label": "Case inpositions",
+        "count": 9,
+        "weight": 0.008729388942774006
+      },
+      {
+        "value": 8,
+        "label": "51A-8",
+        "count": 7,
+        "weight": 0.006789524733268671
+      },
+      {
+        "value": 3,
+        "label": "Case tone",
+        "count": 5,
+        "weight": 0.004849660523763337
+      },
+      {
+        "value": 4,
+        "label": "Case stem change",
+        "count": 1,
+        "weight": 0.0009699321047526673
+      }
+    ]
+  }
+}
